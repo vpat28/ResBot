@@ -9,7 +9,7 @@ Resbot is a comprehensive chatbot created using Microsoft Power Virtual Agent (n
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----In the Docs folder, you will find our project proposal, our SRS document, and our SAS document. We have corrected our SRS document in accordance with the feedback given in the original submission. We have NOT corrected our SAS document and have uploaded the original one for which we were given a score of 13/15.
 
-----In the Presentations folder, you will find our mid-term and final presentations
+----In the Presentations folder, you will find our mid-term and final presentations.
 
 ----In the Mockup Folder, you will find screenshots of our ResBot mockup for every functional requirement use case. There are two versions of each screenshot, one of just the chat box, and one of the chatbox inside of Microsoft Teams. The content of the chat is always the same in either case, the only thing different is the background.
 
