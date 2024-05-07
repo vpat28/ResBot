@@ -1,4 +1,4 @@
-# This repository is the Final Project Package Submission For Team 2 of CSC 431 (University of Miami). Team Members consist of Kevin Wright, Justin Prince, & Vraj Patel.
+# This repository is the Final Project Package Submission For Team 2 of CSC 431 (University of Miami Spring 2024 Semester). Team Members consist of Kevin Wright, Justin Prince, & Vraj Patel.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Project Overview:
